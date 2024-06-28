@@ -1,0 +1,121 @@
+,Category,Collection Date,Chemical Compounds,Highest Level Detected,Range of Levels Detected,MCLG,MCL,Units,Likely Source of Contamination
+0,Disinfection By Products,2021,Total Haloacetic Acids (HAA5),25.0,20.5 - 30.2,No Goal for total,60,ppb,By-product of drinking water disinfection.
+1,Disinfection By Products,2021,Total Trihalomethanes (TTHM),32.0,22.3 - 38.4,No Goal for total,80,ppb,By-product of drinking water disinfection.
+2,Disinfection By Products,2021,Bromate,69.2,5.27 - 69.2,5,10,ppb,By-product of drinking water ozonation.
+3,Disinfection By Products,2022,Total Haloacetic Acids (HAA5),25.0,14.22 - 22.9,No Goal for total,60,ppb,By-product of drinking water disinfection.
+4,Disinfection By Products,2022,Total Trihalomethanes (TTHM),36.0,23.3 - 48.7,No Goal for total,80,ppb,By-product of drinking water disinfection.
+5,Disinfection By Products,2022,Bromate,4.9,4.9,5,10,ppb,By-product of drinking water ozonation.
+6,Disinfection By Products,2023,Total Haloacetic Acids (HAA5),27.7,16 - 27.7,No Goal for total,60,ppb,By-product of drinking water disinfection.
+7,Disinfection By Products,2023,Total Trihalomethanes (TTHM),51.1,24.9 - 51.1,No Goal for total,80,ppb,By-product of drinking water disinfection.
+8,Disinfection By Products,2023,Bromate,0.0,0 - 0,5,10,ppb,By-product of drinking water ozonation.
+9,Inorganic Contaminants,2021,Antimony,0.0,0,6.0,6,ppb,Discharge from petroleum refineries; fire retardants; ceramics; electronics; solder; and test addition.
+10,Inorganic Contaminants,2021,Arsenic,0.0,0,0.0,10,ppb,Erosion of natural deposits; runoff from orchards; runoff from glass and electronics production wastes.
+11,Inorganic Contaminants,2021,Barium,0.038,0.037 - 0.038,2.0,2,ppm,Discharge of drilling wastes; discharge from metal refineries; erosion of natural deposits.
+12,Inorganic Contaminants,2021,Beryllium,0.0,0,4.0,4,ppb,"Discharge from metal refineries and coal-burning factories; discharge from electrical, aerospace, and defense industries"
+13,Inorganic Contaminants,2021,Cadmium,0.0,0,5.0,5,ppb,Corrosion of galvanized pipes; erosion of natural deposits; discharge from metal refineries; runoff from waste batteries and paints.
+14,Inorganic Contaminants,2021,Chromium,0.0,0,100.0,100,ppb,Discharge from steel and pulp mills; erosion of natural deposits
+15,Inorganic Contaminants,2021,Cyanide,86.9,86.9,200.0,200,ppb,Discharge from steel/metal factories; Discharge from plastics and fertilizer factories.
+16,Inorganic Contaminants,2021,Fluoride,0.48,0.306 - 0.480,4.0,4,ppm,Erosion of natural deposits; water additive which promotes strong teeth; discharge from fertilizer and aluminum factories
+17,Inorganic Contaminants,2021,Mercury,0.0,0,2.0,2,ppb,Erosion of natural deposits; discharge from refineries and factories; runoff from landfills; runoff from cropland.
+18,Inorganic Contaminants,2021,Nitrate (measured as Nitrogen),0.802,0.110 - 0.802,10.0,10,ppm,Runoff from fertilizer use; leaching from septic tanks; sewage; erosion of natural deposits.
+19,Inorganic Contaminants,2021,Selenium,0.0,0,50.0,50,ppb,Discharge from petroleum and metal refineries; erosion of natural deposits; discharge from mines.
+20,Inorganic Contaminants,2021,Thallium,0.0,0,0.5,2,ppb,"Discharge from electronics, glass, and leaching from ore-processing sites; drug factories."
+21,Inorganic Contaminants,2022,Antimony,0.0,0,6.0,6,ppb,Discharge from petroleum refineries; fire retardants; ceramics; electronics; solder; and test addition.
+22,Inorganic Contaminants,2022,Arsenic,0.0,0,0.0,10,ppb,Erosion of natural deposits; runoff from orchards; runoff from glass and electronics production wastes.
+23,Inorganic Contaminants,2022,Barium,0.061,0.060 - 0.061,2.0,2,ppm,Discharge of drilling wastes; discharge from metal refineries; erosion of natural deposits.
+24,Inorganic Contaminants,2022,Beryllium,0.0,0,4.0,4,ppb,"Discharge from metal refineries and coal-burning factories; discharge from electrical, aerospace, and defense industries"
+25,Inorganic Contaminants,2022,Cadmium,0.0,0,5.0,5,ppb,Corrosion of galvanized pipes; erosion of natural deposits; discharge from metal refineries; runoff from waste batteries and paints.
+26,Inorganic Contaminants,2022,Chromium,0.0,0,100.0,100,ppb,Discharge from steel and pulp mills; erosion of natural deposits
+27,Inorganic Contaminants,2022,Cyanide,0.0,0,200.0,200,ppb,Discharge from steel/metal factories; Discharge from plastics and fertilizer factories.
+28,Inorganic Contaminants,2022,Fluoride,0.688,0.278 - 0.688,4.0,4,ppm,Erosion of natural deposits; water additive which promotes strong teeth; discharge from fertilizer and aluminum factories
+29,Inorganic Contaminants,2022,Mercury,0.0,0,0.0,2,ppb,Erosion of natural deposits; discharge from refineries and factories; runoff from landfills; runoff from cropland.
+30,Inorganic Contaminants,2022,Nitrate (measured as Nitrogen),0.439,0.158 - 0.436,10.0,10,ppm,Runoff from fertilizer use; leaching from septic tanks; sewage; erosion of natural deposits.
+31,Inorganic Contaminants,2022,Selenium,0.0,0,50.0,50,ppb,Discharge from petroleum and metal refineries; erosion of natural deposits; discharge from mines.
+32,Inorganic Contaminants,2022,Thallium,0.0,0,0.5,2,ppb,"Discharge from electronics, glass, and leaching from ore-processing sites; drug factories."
+33,Inorganic Contaminants,2023,Antimony,0.0,0,6.0,6,ppb,Discharge from petroleum refineries; fire retardants; ceramics; electronics; solder; and test addition.
+34,Inorganic Contaminants,2023,Arsenic,0.0,0,0.0,10,ppb,Erosion of natural deposits; runoff from orchards; runoff from glass and electronics production wastes.
+35,Inorganic Contaminants,2023,Barium,0.048,0.041 - 0.048,2.0,2,ppm,Discharge of drilling wastes; discharge from metal refineries; erosion of natural deposits.
+36,Inorganic Contaminants,2023,Beryllium,0.0,0,4.0,4,ppb,"Discharge from metal refineries and coal-burning factories; discharge from electrical, aerospace, and defense industries"
+37,Inorganic Contaminants,2023,Cadmium,0.0,0,5.0,5,ppb,Corrosion of galvanized pipes; erosion of natural deposits; discharge from metal refineries; runoff from waste batteries and paints.
+38,Inorganic Contaminants,2023,Chromium,0.0,0,100.0,100,ppb,Discharge from steel and pulp mills; erosion of natural deposits
+39,Inorganic Contaminants,2023,Cyanide,199.0,28 - 199,0.0,200,ppb,Discharge from steel/metal factories; Discharge from plastics and fertilizer factories.
+40,Inorganic Contaminants,2023,Fluoride,0.968,0.537 - 0.968,4.0,4,ppm,Erosion of natural deposits; water additive which promotes strong teeth; discharge from fertilizer and aluminum factories
+41,Inorganic Contaminants,2023,Mercury,0.0,0,2.0,2,ppb,Erosion of natural deposits; discharge from refineries and factories; runoff from landfills; runoff from cropland.
+42,Inorganic Contaminants,2023,Nitrate (measured as Nitrogen),0.79,0.067 - 0.790,10.0,10,ppm,Runoff from fertilizer use; leaching from septic tanks; sewage; erosion of natural deposits.
+43,Inorganic Contaminants,2023,Selenium,0.0,0,50.0,50,ppb,Discharge from petroleum and metal refineries; erosion of natural deposits; discharge from mines.
+44,Inorganic Contaminants,2023,Thallium,0.0,0,0.5,2,ppb,"Discharge from electronics, glass, and leaching from ore-processing sites; drug factories."
+45,Radioactive Contaminants,2021,Beta/photon emitters,0.0,0,0,50,Pci/L,Decay of natural and man-made deposits.
+46,Radioactive Contaminants,2021,Gross alpha excluding radon and uranium,0.0,0,0,15,Pci/L,Erosion of natural deposits.
+47,Radioactive Contaminants,2021,Radium,0.0,0,0,5,Pci/L,Erosion of natural deposits.
+48,Radioactive Contaminants,2022,Beta/photon emitters,4.7,4.7 - 4.7,0,50,Pci/L,Decay of natural and man-made deposits.
+49,Radioactive Contaminants,2022,Gross alpha excluding radon and uranium,0.0,0,0,15,Pci/L,Erosion of natural deposits.
+50,Radioactive Contaminants,2022,Radium,0.0,0,0,5,Pci/L,Erosion of natural deposits.
+54,Pesticides and Herbicides,2019,"2, 4, 5 - TP (Silvex)",0.0,0,50,50,ppb,Residue of banned herbicide.
+55,Pesticides and Herbicides,2019,"2, 4 - D",0.0,0,70,70,ppb,Runoff from herbicide used on row crops.
+56,Pesticides and Herbicides,2021,Alachlor,0.0,0,0,2,ppb,Runoff from herbicide used on row crops.
+57,Pesticides and Herbicides,2019,Aldicarb,0.0,0,1,3,ppb,Runoff from agricultural pesticide.
+58,Pesticides and Herbicides,2019,Aldicarb Sulfone,0.0,0,1,2,ppb,Runoff from agricultural pesticide.
+59,Pesticides and Herbicides,2019,Aldicarb Sulfoxide,0.0,0,1,4,ppb,Runoff from agricultural pesticide.
+60,Pesticides and Herbicides,2021,Atrazine,0.3,0.2 - 0.3,3,3,ppt,Runoff from herbicide used on row crops.
+61,Pesticides and Herbicides,2021,Benzo (a) pyrene,0.0,0,0,200,ppb,Leaching from linings of water storage tanks and distribution lines.
+62,Pesticides and Herbicides,2019,Carbofuran,0.0,0,40,40,ppb,Leaching of soil fumigant used on rice and alfalfa.
+63,Pesticides and Herbicides,2021,Chlordane,0.0,0,0,2,ppb,Residue of banned termiticide.
+64,Pesticides and Herbicides,2019,Dalapon,0.0,0,200,200,ppb,Runoff from herbicide used on rights of way.
+65,Pesticides and Herbicides,2021,Di (2-ethylhexyl) adipate,0.0,0,400,400,ppb,Discharge from chemical factories.
+66,Pesticides and Herbicides,2021,Di (2-ethylhexyl) phthalate,0.0,0,0,6,ppt,Discharge from rubber and chemical factories.
+67,Pesticides and Herbicides,2019,Dibromochloropropane (DBCP),0.0,0,0,200,ppb,"Runoff / leaching from soil fumigant used on soybeans, cotton, pineapples, and orchards."
+68,Pesticides and Herbicides,2019,Dinoseb,0.0,0,7,7,ppb,Runoff from herbicide used on soybeans and vegetables.
+69,Pesticides and Herbicides,2021,Endrin,0.0,0,2,2,ppb,Residue of banned insecticide.
+70,Pesticides and Herbicides,2019,Ethylene dibromide,0.0,0,0,50,ppt,Discharge from petroleium refineries.
+71,Pesticides and Herbicides,2021,Heptachlor,0.0,0,0,400,ppt,Residue of banned termiticide.
+72,Pesticides and Herbicides,2021,Heptachlor epoxide,0.0,0,0,200,ppt,Breakdown of heptachlor.
+73,Pesticides and Herbicides,2021,Hexachlorobenzene,0.0,0,0,1,ppb,Discharge from metal refineries and agricultural chemical factories.
+74,Pesticides and Herbicides,2021,Hexachlorocyclopentadiene,0.0,0,50,50,ppb,Discharge from chemical factories.
+75,Pesticides and Herbicides,2021,Lindane,0.0,0,500,200,ppt,"Runoff / leaching from insecticide used on cattle, lumber, and gardens."
+76,Pesticides and Herbicides,2021,Methoxychlor,0.0,0,40,40,ppb,"Runoff / leaching from insecticide used on fruits, vegetables, alfalfa, and livestock."
+77,Pesticides and Herbicides,2019,Oxamyl [Vydate],0.0,0,200,200,ppb,"Runoff / leaching from insecticide used on apples, potatoes, and tomatoes."
+78,Pesticides and Herbicides,2019,Pentachlorophenol,0.0,0,0,1,ppb,Discharge from wood preserving factories.
+79,Pesticides and Herbicides,2019,Picloram,0.0,0,500,500,ppb,Herbicide runoff.
+80,Pesticides and Herbicides,2021,Simazine,0.12,0.08 - 0.12,4,4,ppb,Herbicide runoff.
+81,Pesticides and Herbicides,2021,Toxaphene,0.0,0,0,3,ppb,Runoff / leaching from insecticide used on cotton and cattle.
+82,Pesticides and Herbicides,2022,"2, 4, 5 - TP (Silvex)",0.0,0,50,50,ppb,Residue of banned herbicide.
+83,Pesticides and Herbicides,2022,"2, 4 - D",0.0,0,70,70,ppb,Runoff from herbicide used on row crops.
+84,Pesticides and Herbicides,2022,Alachlor,0.0,0,0,2,ppb,Runoff from herbicide used on row crops.
+85,Pesticides and Herbicides,2022,Aldicarb,0.0,0,1,3,ppb,Runoff from agricultural pesticide.
+86,Pesticides and Herbicides,2022,Aldicarb Sulfone,0.0,0,1,2,ppb,Runoff from agricultural pesticide.
+87,Pesticides and Herbicides,2022,Aldicarb Sulfoxide,0.0,0,1,4,ppb,Runoff from agricultural pesticide.
+88,Pesticides and Herbicides,2022,Atrazine,0.12,0.10 - 0.12,3,3,ppt,Runoff from herbicide used on row crops.
+89,Pesticides and Herbicides,2022,Benzo (a) pyrene,0.0,0,0,200,ppb,Leaching from linings of water storage tanks and distribution lines.
+90,Pesticides and Herbicides,2022,Carbofuran,0.0,0,40,40,ppb,Leaching of soil fumigant used on rice and alfalfa.
+91,Pesticides and Herbicides,2022,Chlordane,0.0,0,0,2,ppb,Residue of banned termiticide.
+92,Pesticides and Herbicides,2022,Dalapon,0.0,0,200,200,ppb,Runoff from herbicide used on rights of way.
+93,Pesticides and Herbicides,2022,Di (2-ethylhexyl) adipate,0.0,0,400,400,ppb,Discharge from chemical factories.
+94,Pesticides and Herbicides,2022,Di (2-ethylhexyl) phthalate,0.0,0,0,6,ppt,Discharge from rubber and chemical factories.
+95,Pesticides and Herbicides,2022,Dibromochloropropane (DBCP),0.0,0,0,200,ppb,"Runoff / leaching from soil fumigant used on soybeans, cotton, pineapples, and orchards."
+96,Pesticides and Herbicides,2022,Dinoseb,0.0,0,7,7,ppb,Runoff from herbicide used on soybeans and vegetables.
+97,Pesticides and Herbicides,2022,Endrin,0.0,0,2,2,ppb,Residue of banned insecticide.
+98,Pesticides and Herbicides,2022,Ethylene dibromide,0.0,0,0,50,ppt,Discharge from petroleium refineries.
+99,Pesticides and Herbicides,2022,Heptachlor,0.0,0,0,400,ppt,Residue of banned termiticide.
+100,Pesticides and Herbicides,2022,Heptachlor epoxide,0.0,0,0,200,ppt,Breakdown of heptachlor.
+101,Pesticides and Herbicides,2022,Hexachlorobenzene,0.0,0,0,1,ppb,Discharge from metal refineries and agricultural chemical factories.
+102,Pesticides and Herbicides,2022,Hexachlorocyclopentadiene,0.0,0,50,50,ppb,Discharge from chemical factories.
+103,Pesticides and Herbicides,2022,Lindane,0.0,0,200,200,ppt,"Runoff / leaching from insecticide used on cattle, lumber, and gardens."
+104,Pesticides and Herbicides,2022,Methoxychlor,0.0,0,40,40,ppb,"Runoff / leaching from insecticide used on fruits, vegetables, alfalfa, and livestock."
+105,Pesticides and Herbicides,2022,Oxamyl [Vydate],0.0,0,200,200,ppb,"Runoff / leaching from insecticide used on apples, potatoes, and tomatoes."
+106,Pesticides and Herbicides,2022,Pentachlorophenol,0.0,0,0,1,ppb,Discharge from wood preserving factories.
+107,Pesticides and Herbicides,2022,Picloram,0.0,0,500,500,ppb,Herbicide runoff.
+108,Pesticides and Herbicides,2022,Simazine,0.0,0,4,4,ppb,Herbicide runoff.
+109,Pesticides and Herbicides,2022,Toxaphene,0.0,0,0,3,ppb,Runoff / leaching from insecticide used on cotton and cattle.
+112,Pesticides and Herbicides,2023,Alachlor,0.0,0,0,2,ppb,Runoff from herbicide used on row crops.
+116,Pesticides and Herbicides,2023,Atrazine,0.2,0.1 - 0.2,3,3,ppt,Runoff from herbicide used on row crops.
+117,Pesticides and Herbicides,2023,Benzo (a) pyrene,0.0,0,0,200,ppb,Leaching from linings of water storage tanks and distribution lines.
+121,Pesticides and Herbicides,2023,Di (2-ethylhexyl) adipate,0.0,0,400,400,ppb,Discharge from chemical factories.
+122,Pesticides and Herbicides,2023,Di (2-ethylhexyl) phthalate,0.0,0,0,6,ppt,Discharge from rubber and chemical factories.
+125,Pesticides and Herbicides,2023,Endrin,0.0,0,2,2,ppb,Residue of banned insecticide.
+127,Pesticides and Herbicides,2023,Heptachlor,0.0,0,0,400,ppt,Residue of banned termiticide.
+128,Pesticides and Herbicides,2023,Heptachlor epoxide,0.0,0,0,200,ppt,Breakdown of heptachlor.
+129,Pesticides and Herbicides,2023,Hexachlorobenzene,0.0,0,0,1,ppb,Discharge from metal refineries and agricultural chemical factories.
+131,Pesticides and Herbicides,2023,Lindane,0.0,0,200,200,ppt,"Runoff / leaching from insecticide used on cattle, lumber, and gardens."
+132,Pesticides and Herbicides,2023,Methoxychlor,0.0,0,40,40,ppb,"Runoff / leaching from insecticide used on fruits, vegetables, alfalfa, and livestock."
+136,Pesticides and Herbicides,2023,Simazine,0.12,0.06 - 0.12,4,4,ppb,Herbicide runoff.
+137,Pesticides and Herbicides,2023,Toxaphene,0.0,0,0,3,ppb,Runoff / leaching from insecticide used on cotton and cattle.
